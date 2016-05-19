@@ -1,2 +1,3 @@
 This is my data
-size = 555
+size = 557
+New size is the right size
