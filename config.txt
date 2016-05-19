@@ -1,2 +1,2 @@
 This is my data
-size = 555
+size = 320
